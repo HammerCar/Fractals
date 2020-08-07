@@ -362,4 +362,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Program output images
-*images/
+images/
